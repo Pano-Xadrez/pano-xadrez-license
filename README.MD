@@ -1,6 +1,6 @@
 ## License
 
-####pt-br
+*pt-br*
 SEM LICENÇA
 
 Por mais que este código esteja hospedado no Github e você possá visualizá-lo, **você não está autorizado a utilizá-lo, modificá-lo ou compartilhá-lo** (por mais que você faça referências a este projeto em seu código).
